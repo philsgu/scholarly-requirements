@@ -204,6 +204,6 @@ For department-specific scholarly requirement questions:
 
 **Scan to access this documentation online:**
 
-![QR Code to Scholarly Requirements](qrcode.png)
+![QR Code to Scholarly Requirements](https://api.qrserver.com/v1/create-qr-code/?size=300x300&data=https://philsgu.github.io/scholarly-requirements)
 
 🔗 https://philsgu.github.io/scholarly-requirements
