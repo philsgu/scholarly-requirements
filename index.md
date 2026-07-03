@@ -13,7 +13,45 @@ All residents are required to complete mandatory CITI training modules by **Dece
 - **HSR** — Human Subjects Research
 - **COI** — Conflict of Interest
 
-**Registration:** [CITI Program](https://www.citiprogram.org)
+### CITI Registration Instructions
+
+Follow these steps to register and enroll in required modules:
+
+1. **Create/Log Into CITI Account**
+   - Go to [CITI Program](https://www.citiprogram.org)
+   - Click **Log In** (or **Register** if you don't have an account)
+   - Use your institutional email if available
+
+2. **Select Your Institution**
+   - After login, select **"Add a Course"** or **"New Learner Enrollment"**
+   - Search for: **Trinity Health - Michigan Region**
+   - Select this as your organizational affiliation
+
+3. **Complete Your Profile**
+   - Full name, email, role (Resident Physician)
+   - Department/Program
+   - Save profile information
+
+4. **Enroll in Required Modules**
+   - Once affiliated, enroll in all four required courses:
+     - ✓ Good Clinical Practice (GCP)
+     - ✓ Responsible Conduct of Research (RCR)
+     - ✓ Human Subjects Research (HSR)
+     - ✓ Conflict of Interest (COI)
+   - Click **Enroll** next to each course
+
+5. **Complete All Modules**
+   - Complete each course fully (read content + pass quiz)
+   - You can work on them in any order
+   - ⏰ **Deadline:** December 31 of your first year
+   - Certificates are issued immediately upon completion
+
+6. **Save Your Certificates**
+   - Download PDF certificates for your records
+   - Share with your GME coordinator if requested
+   - You can access certificates anytime in your CITI account
+
+**Questions?** Contact your GME Program Coordinator or Kari Frinfrock (Director, Graduate Medical Education)
 
 ---
 

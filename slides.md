@@ -13,7 +13,20 @@
 - **HSR** — Human Subjects Research
 - **COI** — Conflict of Interest
 
-🔗 **Registration:** [CITI Program](https://www.citiprogram.org)
+---
+
+## CITI Registration Steps
+
+1. Go to [CITI Program](https://www.citiprogram.org)
+2. Create account or log in
+3. **Select affiliation:** Trinity Health - Michigan Region
+4. Complete your profile
+5. Enroll in all 4 required modules
+6. Complete each course (read + pass quiz)
+7. Download certificates
+
+⏰ **Deadline:** December 31  
+📋 **Affiliation:** Trinity Health - Michigan Region
 
 ---
 
