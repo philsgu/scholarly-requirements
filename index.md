@@ -198,12 +198,3 @@ For department-specific scholarly requirement questions:
 **Last Updated:** July 2026  
 *For questions or updates to this document, contact the GME office or Research Committee Co-Chairs.*
 
----
-
-## Quick Reference
-
-**Scan to access this documentation online:**
-
-![QR Code to Scholarly Requirements](https://api.qrserver.com/v1/create-qr-code/?size=300x300&data=https://philsgu.github.io/scholarly-requirements)
-
-🔗 https://philsgu.github.io/scholarly-requirements
