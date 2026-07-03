@@ -189,7 +189,7 @@ For department-specific scholarly requirement questions:
 - [ ] **Complete CITI certification modules** (GCP, RCR, HSR, COI) by December 31
 - [ ] **Confirm your department's scholarly requirements** — see table above
 - [ ] **Review QI vs. SA distinction** — plan your project approach accordingly
-- [ ] **Register for SAMC Research Day** — [FourWaves portal](https://event.fourwaves.com/samcrc)
+- [ ] **Register for SAMC Research Day** — 2027 available in Jan via [FourWaves portal](https://event.fourwaves.com/samcrc)
 - [ ] **Contact IRB for guidance** — Julie Bird (IRB Specialist) for questions
 - [ ] **Discuss stipend eligibility** — Ask your Program Director or Research Co-Chairs about national conference funding
 
