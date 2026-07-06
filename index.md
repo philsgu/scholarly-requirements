@@ -138,6 +138,17 @@ For case reports and case presentations involving identifiable patient informati
 - **Case Consent Portal:** [Trinity Case Consent Form](https://caseconsent.vercel.app/)
 - **Official Form:** [Patient Case Consent Form](https://www.samc.com/graduate-medical-education/consents-forms)
 
+### Research Data Extraction Requests
+
+Once your study is **IRB-approved**, you can request access to patient data and EPIC records:
+
+**ServiceNow Request Form:** [Research Data Extraction Request for IRB Approved Studies](https://trinityprod.service-now.com/ess?id=sc_cat_item&sys_id=86e4303bdbf51f4053d4fb451d9619ff)
+
+**Contact:** Tina Maxbauer — EPIC Data Extraction & Informatics Specialist  
+Email: maxbauet@trinity-health.org
+
+Submit this form after receiving IRB approval with your protocol ID and data extraction requirements.
+
 ### Key Research Portals & Tools
 - **Saint Alphonsus IRB Services:** [Clinical Trials & Research / Institutional Review Board](https://www.saintalphonsus.org/services/clinical-trials-and-research/institutional-review-board)
 - **SAMC IRB Manager:** [https://samc.my.irbmanager.com/](https://samc.my.irbmanager.com/)
