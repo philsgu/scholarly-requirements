@@ -1,4 +1,4 @@
-# Scholarly Requirements for Incoming Residents
+# Scholarly Activity Requirements for Incoming Residents
 ## Saint Agnes Medical Center Graduate Medical Education
 
 ---
