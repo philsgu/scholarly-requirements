@@ -1,4 +1,4 @@
-# Scholarly Activity Requirements for Incoming Residents
+# Scholarly Requirements for Incoming Residents
 ## Saint Agnes Medical Center Graduate Medical Education
 
 ---
@@ -51,7 +51,16 @@ Follow these steps to register and enroll in required modules:
    - Share with your GME coordinator if requested
    - You can access certificates anytime in your CITI account
 
-**Questions?** Contact your GME Program Coordinator or Kari Frinfrock (Director, Graduate Medical Education)
+### CITI Support Contacts
+
+| Role | Name | Email | Purpose |
+|------|------|-------|---------|
+| **Research Committee Co-Chair** | Phillip Kim, MD, MPH | phillip.kim@samc.com | Research oversight, CITI questions |
+| **Research Committee Co-Chair** | Anupama Poliyedath, MD | anupayma.poliyedath@samc.com | Research oversight, scholarly guidance |
+| **GME Director** | Kari Frinfrock | — | General GME & training coordination |
+| **IRB Specialist** | Julie Bird | julie.bird@saintalphonsus.org | IRB-related CITI issues |
+
+📧 **Questions about CITI?** Contact your GME Program Coordinator, Phillip Kim, MD, or Kari Frinfrock
 
 ---
 
@@ -209,3 +218,12 @@ For department-specific scholarly requirement questions:
 **Last Updated:** July 2026  
 *For questions or updates to this document, contact the GME office or Research Committee Co-Chairs.*
 
+---
+
+## Quick Reference
+
+**Scan to access this documentation online:**
+
+![QR Code to Scholarly Requirements](https://api.qrserver.com/v1/create-qr-code/?size=300x300&data=https://philsgu.github.io/scholarly-requirements)
+
+🔗 https://philsgu.github.io/scholarly-requirements

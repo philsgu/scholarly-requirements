@@ -30,6 +30,18 @@
 
 ---
 
+## CITI Support Contacts
+
+**Research Committee Co-Chairs:**
+- 🩺 **Phillip Kim, MD, MPH** — phillip.kim@samc.com
+- 🩺 **Anupama Poliyedath, MD** — anupayma.poliyedath@samc.com
+
+**GME & IRB Support:**
+- 📋 **Kari Frinfrock** — Director, GME
+- 📋 **Julie Bird** — IRB Specialist (julie.bird@saintalphonsus.org)
+
+---
+
 ## Department-Specific Scholarly Requirements
 
 | Department | QI | SA |
